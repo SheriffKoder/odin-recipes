@@ -1,0 +1,23 @@
+
+body {
+    background-color: whitesmoke;
+}
+
+
+.page_header {
+    color: black;
+    font-weight: 400;
+}
+
+
+ul li a {
+    color: salmon;
+}
+
+ul li a:hover {
+    color: black;
+}
+
+#home_image {
+    height: 300px;
+}

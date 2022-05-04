@@ -1,0 +1,42 @@
+
+body {
+    background-color: whitesmoke;
+}
+
+
+.page_header {
+    color: salmon;
+    font-weight: 400;
+
+}
+
+
+a {
+    color: salmon;
+}
+
+a:hover {
+    color: black;
+}
+
+#home_image {
+    height: 300px;
+}
+
+em {
+    color: rgb(193, 106, 97);
+}
+
+strong {
+ 
+    background-color: rgb(232, 229, 229);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    
+}
+
+h3, h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: whitesmoke;
+    background-color: rgb(84, 84, 84);
+}
